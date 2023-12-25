@@ -1,5 +1,5 @@
 ### Hi there 👋,
-![](https://i0.wp.com/www.goodwin.edu/enews/wp-content/uploads/2022/12/medical-billing-and-coding-employment-requirements-tiny-2-scaled.jpg?resize=1920%2C768&ssl=1)
+![](https://i.pinimg.com/736x/7c/a6/5e/7ca65ee68c6dc513193d966799224901.jpg)
 
 I am Garrett from Tampa, Florida and I enjoy learning programming languages, mainly C++ and Python. You can check out my projects on my page which includes all my projects from procedural programming to data structures and algorithms.
 
