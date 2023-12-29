@@ -20,7 +20,7 @@
 ## Introduction
 I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys learning programming languages, mainly C++ and Python. You can check out my projects on my profile which includes all my programs from procedural programming up to data structures and algorithms.
 
-I have organized my projects by language in multiple organizations.  Here is the organization for coding projects done in [Python](https://github.com/Python-Coding-Assignments/Ticket-System) and the projects completed in [C++](https://github.com/CPP-Programming-Assingments).  The projects are also organized below.
+I have organized my projects by language in multiple organizations.  Here is the organization for coding projects done in [Python](https://github.com/Python-Coding-Assignments) and the projects completed in [C++](https://github.com/CPP-Programming-Assingments).  The projects are also organized below.
 
 ## Skills
  - C++
