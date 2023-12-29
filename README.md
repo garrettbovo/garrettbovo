@@ -20,7 +20,7 @@
 ## Introduction
 I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys learning programming languages, mainly C++ and Python. You can check out my projects on my profile which includes all my programs from procedural programming up to data structures and algorithms.
 
-I have organized my projects by language utilizing organizations via GitHut.  I have also linked my projects below.
+I have organized my projects by language in multiple organizations.  Here is the organization for coding projects done in [Python](https://github.com/Python-Coding-Assignments/Ticket-System) and the projects completed in [C++](https://github.com/CPP-Programming-Assingments).  The projects are also organized below.
 
 ## Skills
  - C++
@@ -37,13 +37,13 @@ I have organized my projects by language utilizing organizations via GitHut.  I 
 </ol>
 <ul>
   <li>
-    <a href='#https://github.com/Python-Coding-Assignments/Ticket-System'>Ticket-System</a>
+    <a href='https://github.com/Python-Coding-Assignments/Ticket-System'>Ticket-System</a>
   </li>
   <li>
-    <a href='#https://github.com/Python-Coding-Assignments/Grade-Calculator'>Grade-Calculator</a>
+    <a href='https://github.com/Python-Coding-Assignments/Grade-Calculator'>Grade-Calculator</a>
   </li>
   <li>
-    <a href='#https://github.com/Python-Coding-Assignments/Coin-Game'>Coin-Game</a>
+    <a href='https://github.com/Python-Coding-Assignments/Coin-Game'>Coin-Game</a>
   </li>
   <li>
     <a href='https://github.com/Python-Coding-Assignments/Numbers'>Numbers</a>
@@ -55,6 +55,5 @@ I have organized my projects by language utilizing organizations via GitHut.  I 
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@garrettbovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garrett-ellis-740b202a6/)  
