@@ -1,5 +1,4 @@
 # Garrett Ellis
-![learn-coding-automation-just-770x513](https://github.com/garrettbovo/garrettbovo/assets/154717520/78c67008-396c-4a02-8a43-fefaec68350f)
 
 <details>
 <summary>Table of Contents</summary>
