@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87)
+
 <details>
 <summary>Table of Contents</summary>
 <ol>
@@ -20,9 +22,15 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
 I have organized my projects by language in multiple organizations.  Here is the organization for coding projects done in [Python](https://github.com/Python-Coding-Assignments) and the projects completed in [C++](https://github.com/CPP-Programming-Assingments).  The projects are also organized below.
 
 ## Skills
- - C++
- - Python
- - Unix
+<li>
+  🛠 C++
+</li>
+<li>
+  🛠 Python
+</li>
+<li>
+  🛠 Unix
+</li>  
 
 ## Projects
 <details>
@@ -52,5 +60,6 @@ I have organized my projects by language in multiple organizations.  Here is the
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@garrettbovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garrett-ellis-740b202a6/)  
