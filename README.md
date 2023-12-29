@@ -1,5 +1,3 @@
-# Garrett Ellis
-
 <details>
 <summary>Table of Contents</summary>
 <ol>
