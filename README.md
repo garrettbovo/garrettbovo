@@ -58,11 +58,6 @@ I have organized my projects by language in multiple organizations.  Here are th
   🛠 Unix
 </li>  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettbovo)](https://github.com/garrettbovo/github-readme-stats)
-
-
-
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
 
