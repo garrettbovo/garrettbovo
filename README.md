@@ -58,7 +58,7 @@ I have organized my projects by language in multiple organizations.  Here are th
   🛠 Unix
 </li>  
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettbovo)](https://github.com/garrettbovo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettbovo)](https://github.com/garrettbovo/github-readme-stats)
 
 
