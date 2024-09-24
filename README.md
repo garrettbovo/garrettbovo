@@ -58,6 +58,9 @@ I have organized my projects by language in multiple organizations.  Here are th
   🛠 Unix
 </li>  
 
+[![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettbovo)](https://github.com/garrettbovo/github-readme-stats)
+
+
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
 
