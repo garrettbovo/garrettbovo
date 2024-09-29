@@ -7,6 +7,9 @@
     <a href='#introduction'>Introduction</a>
   </li>
   <li>
+    <a href='#language-notes'>Language Notes</a>
+  </li>
+  <li>
     <a href='#projects'>Projects</a>
   </li>
   <li>
@@ -17,40 +20,40 @@
 </details>
 
 ## Introduction
-I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys learning programming languages, mainly C++ and Python. You can check out my projects on my profile which includes all my programs from procedural programming up to data structures and algorithms.
+I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys learning computer languages including: C, CSS, C++, HTML, Python, and Unix. You can check out my projects on my profile which includes all my programs from procedural programming up to data structures and algorithms.
 
-I have organized my projects by language in multiple organizations.  Here are the organizations for coding projects done in [Python](https://github.com/Python-Coding-Assignments) and the projects completed in [C++](https://github.com/CPP-Programming-Assingments).  The projects are also organized below.
-
-## Projects
+## Language Notes
 <details>
-<summary>Python</summary>
+<summary>Notes</summary>
 <ul>
-<details>
-<summary>Procedural Programming Projects</summary>
-</li>
-</ol>
-<ul>
-  <li>
-    <a href='https://github.com/Python-Coding-Assignments/Ticket-System'>Ticket-System</a>
-  </li>
-  <li>
-    <a href='https://github.com/Python-Coding-Assignments/Grade-Calculator'>Grade-Calculator</a>
-  </li>
-  <li>
-    <a href='https://github.com/Python-Coding-Assignments/Coin-Game'>Coin-Game</a>
-  </li>
-  <li>
-    <a href='https://github.com/Python-Coding-Assignments/Numbers'>Numbers</a>
-  </li>
-  <li>
-    <a href='#Contact'>Calculating-NFL-Passer-Ratings</ol>
-</details>
+    <li>
+        <a href='https://github.com/Programming-Notes-all-languages/CSS-and-HTML'>CSS and HTML</a>
+    </li>
+    <li>
+        <a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C</a>
+    </li>    
+    <li>
+        <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>C++</a>
+    </li> 
+    <li>
+        <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>Python</a>
+    </li> 
+</ul>
 </details>
 
 ## Skills
 <li>
+  🛠 C
+</li>  
+<li>
+  🛠 CSS
+</li>  
+<li>
   🛠 C++
 </li>
+<li>
+  🛠 HTML
+</li>  
 <li>
   🛠 Python
 </li>
