@@ -36,7 +36,7 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
         <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>C++</a>
     </li> 
     <li>
-        <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>Python</a>
+        <a href='https://github.com/Programming-Notes-all-languages/Python-Notes'>Python</a>
     </li> 
 </ul>
 </details>
