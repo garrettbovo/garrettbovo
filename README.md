@@ -13,9 +13,6 @@
     <a href='#projects'>Projects</a>
   </li>
   <li>
-    <a href='#skills'>Skills</a>
-  </li>
-  <li>
     <a href='#Contact'>Contact</ol>
 </details>
 
@@ -41,26 +38,7 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
 </ul>
 </details>
 
-<section id="skills">
-  <h2>Skills</h2>
-  <div style="display: flex; justify-content: space-between; max-width: 600px;">
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🛠 C</li>
-      <li>🛠 CSS</li>
-    </ul>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🛠 C++</li>
-      <li>🛠 HTML</li>
-    </ul>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🛠 Python</li>
-      <li>🛠 Unix</li>
-    </ul>
-  </div>
-</section>
-
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/garrettbovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garrett-ellis-740b202a6/)  
