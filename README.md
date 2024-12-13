@@ -41,25 +41,23 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
 </ul>
 </details>
 
-## Skills
-<li>
-  🛠 C
-</li>  
-<li>
-  🛠 CSS
-</li>  
-<li>
-  🛠 C++
-</li>
-<li>
-  🛠 HTML
-</li>  
-<li>
-  🛠 Python
-</li>
-<li>
-  🛠 Unix
-</li>  
+<section id="skills">
+  <h2>Skills</h2>
+  <div style="display: flex; justify-content: space-between; max-width: 600px;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🛠 C</li>
+      <li>🛠 CSS</li>
+    </ul>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🛠 C++</li>
+      <li>🛠 HTML</li>
+    </ul>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🛠 Python</li>
+      <li>🛠 Unix</li>
+    </ul>
+  </div>
+</section>
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
