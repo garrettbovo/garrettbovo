@@ -56,6 +56,12 @@
 </p>
 
 ## Highlighted Projects
+<details>
+        <summary>C Projects</summary>
+        <ul>     
+            <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
+        </ul>
+    </details>  
 
 ## Projects
 <details>
