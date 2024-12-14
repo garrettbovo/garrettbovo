@@ -81,10 +81,7 @@
 
 ## Language Notes
 <details>
-<summary>Notes</summary>
-<ul>
-    <details>
-        <summary><a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C</a></summary>
+        <summary><a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C Notes</a></summary>
         <ul>
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/C%20Basics">C Basics</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
@@ -113,8 +110,6 @@
     <li>
         <a href='https://github.com/Programming-Notes-all-languages/Python-Notes'>Python</a>
     </li> 
-</ul>
-</details>
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
