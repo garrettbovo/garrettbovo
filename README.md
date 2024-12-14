@@ -59,9 +59,6 @@
 
 ## Projects
 <details>
-<summary>Projects</summary>
-<ul>
-    <details>
         <summary>C Projects</summary>
         <ul>     
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
@@ -81,8 +78,6 @@
             <li><a href="https://github.com/C-Coding-Assignments/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
         </ul>
     </details>  
-</ul>  
-</details>
 
 ## Language Notes
 <details>
