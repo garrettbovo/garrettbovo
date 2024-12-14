@@ -35,26 +35,32 @@
   manage my projects, making it easier to explore my work by category or focus area.
 </p>
 
-<h3>Highlighted Projects</h3>
-<p>
-  I’m particularly proud of the highlighted projects showcased here. These represent the most advanced and complex work I’ve developed, 
-  showcasing a blend of technical expertise and creative problem-solving. These projects push the boundaries of what I’ve learned and reflect 
-  my dedication to mastering the field of computer engineering.
-</p>
-
-<h3>Linked Projects</h3>
-<p>
-  Below, you’ll find links to my primary repositories, encompassing a range of areas from web development to embedded systems and beyond. 
-  Each project demonstrates my ability to tackle real-world problems with elegant and efficient solutions.
-</p>
-
-<h3>Notes and Learning Resources</h3>
-<p>
-  In addition to my projects, I’ve documented detailed notes for each programming language and technology I’ve studied. These notes serve as 
-  a resource for myself and others, covering essential concepts, practical implementations, and advanced techniques in various languages and 
-  frameworks.
-</p>
-
+<ol>
+        <li>
+            <h3>Highlighted Projects</h3>
+            <p>
+                I’m particularly proud of the highlighted projects showcased here. These represent the most advanced and complex work I’ve developed, 
+                showcasing a blend of technical expertise and creative problem-solving. These projects push the boundaries of what I’ve learned and reflect 
+                my dedication to mastering the field of computer engineering.
+            </p>
+        </li>    
+        <li>
+            <h3>Linked Projects</h3>
+            <p>
+                Below, you’ll find links to my primary repositories, encompassing a range of areas from web development to embedded systems and beyond. 
+                Each project demonstrates my ability to tackle real-world problems with elegant and efficient solutions.
+            </p>
+        </li>
+        <li>
+            <h3>Notes and Learning Resources</h3>
+            <p>
+                In addition to my projects, I’ve documented detailed notes for each programming language and technology I’ve studied. These notes serve as 
+                a resource for myself and others, covering essential concepts, practical implementations, and advanced techniques in various languages and 
+                frameworks.
+            </p>
+        </li>
+    </ol>
+    
 ## Highlighted Projects
 ### Dynamic Data Manipulator
 <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">This</a> advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
@@ -103,15 +109,6 @@
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Writing%20Large%20Programs">Writing Large Programs</a></li>
         </ul>
     </details>   
-    <li>
-        <a href='https://github.com/Programming-Notes-all-languages/CSS-and-HTML'>CSS and HTML</a>
-    </li>
-    <li>
-        <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>C++</a>
-    </li> 
-    <li>
-        <a href='https://github.com/Programming-Notes-all-languages/Python-Notes'>Python</a>
-    </li> 
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
