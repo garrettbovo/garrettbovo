@@ -4,7 +4,7 @@
 <summary>Table of Contents</summary>
 <ol>
   <li>
-    <a href='#introduction'>Introduction</a>
+    <a href='#introduction'>About my Github</a>
   </li>
   <li>
     <a href='#highlighted-projects'>Highlighted Projects</a>
