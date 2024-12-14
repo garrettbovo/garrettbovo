@@ -56,12 +56,8 @@
 </p>
 
 ## Highlighted Projects
-<details>
-        <summary>C Projects</summary>
-        <ul>     
-            <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
-        </ul>
-    </details>  
+### Dynamic Data Manipulator
+<a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">This</a> advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
 
 ## Projects
 <details>
