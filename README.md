@@ -67,7 +67,7 @@
 
 ## Projects
 <details>
-        <summary>C Projects</summary>
+        <summary><a href="https://github.com/C-Coding-Assignments/.github/blob/main/README.md">C Projects</a>a></summary>
         <ul>     
             <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
@@ -90,7 +90,7 @@
 
 ## Language Notes
 <details>
-        <summary><a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C Notes</a></summary>
+        <summary><a href="https://github.com/Programming-Notes-all-languages/C-Notes">C Notes</a></summary>
         <ul>
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/C%20Basics">C Basics</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
