@@ -55,6 +55,8 @@
   frameworks.
 </p>
 
+## Highlighted Projects
+
 ## Projects
 <details>
 <summary>Projects</summary>
