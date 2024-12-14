@@ -19,7 +19,7 @@
     <a href='#Contact'>Contact</ol>
 </details>
 
-<p>Welcome to my GitHub!</p>
+<h3>Welcome to my GitHub!</h3>
 
 <p>
   I’m Garrett Ellis, an ambitious and accomplished Computer Engineering student at the University of South Florida (USF) in Tampa. 
