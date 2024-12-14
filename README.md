@@ -19,8 +19,6 @@
     <a href='#Contact'>Contact</ol>
 </details>
 
-<h1>Garrett Ellis</h1>
-
 <p>Welcome to my GitHub!</p>
 
 <p>
