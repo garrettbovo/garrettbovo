@@ -28,23 +28,22 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
 <ul>
     <details>
         <summary>C Projects</summary>
-        <ul>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/C%20Basics">C Basics</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output">Formatted Input and Output</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Selection%20Statements">Selection Statements</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Loops">Loops</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Arrays">Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Functions">Functions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Basic%20Type(s)">Basic Types</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Program%20Organization">Program Organization</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers">Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Strings">Strings</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Structures">Structures</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Files">Files</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Writing%20Large%20Programs">Writing Large Programs</a></li>
+        <ul>     
+            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-2">Yoga Studio Search Part 2</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-1">Yoga Studio Search Part 1</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Tokenizer">Tokenizer</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Word-Score-Game">Word Score Gsme</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Split-String">Split String</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Before-and-After-Array">Before and After Array</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Board-Game">Board Game</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Distinct-Numbers">Distinct Numbers</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Good-Sequence-Checker">Good Sequence Checker</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Scrabble">Scrabble</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Oscillating-Performances">Oscillating Performances</a></li>
+            <li><a href="https://github.com/C-Coding-Assignments/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
         </ul>
     </details>  
 </ul>  
