@@ -26,12 +26,30 @@ I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys 
 <details>
 <summary>Notes</summary>
 <ul>
+    <details>
+        <summary><a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C</a></summary>
+        <ul>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/C%20Basics">C Basics</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output">Formatted Input and Output</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Selection%20Statements">Selection Statements</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Loops">Loops</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Arrays">Arrays</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Functions">Functions</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Basic%20Type(s)">Basic Types</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Program%20Organization">Program Organization</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers">Pointers</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Strings">Strings</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Structures">Structures</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Files">Files</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Writing%20Large%20Programs">Writing Large Programs</a></li>
+        </ul>
+    </details>   
     <li>
         <a href='https://github.com/Programming-Notes-all-languages/CSS-and-HTML'>CSS and HTML</a>
     </li>
-    <li>
-        <a href='https://github.com/Programming-Notes-all-languages/C-Notes'>C</a>
-    </li>    
     <li>
         <a href='https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming'>C++</a>
     </li> 
