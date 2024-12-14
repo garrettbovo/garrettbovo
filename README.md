@@ -19,8 +19,43 @@
     <a href='#Contact'>Contact</ol>
 </details>
 
-## Introduction
-I am Garrett from Tampa, Florida and I am Computer Engineering major who enjoys learning computer languages including: C, CSS, C++, HTML, Python, and Unix. You can check out my projects on my profile which includes all my programs from procedural programming up to data structures and algorithms.
+<h1>Garrett Ellis</h1>
+
+<p>Welcome to my GitHub!</p>
+
+<p>
+  I’m Garrett Ellis, an ambitious and accomplished Computer Engineering student at the University of South Florida (USF) in Tampa. 
+  My academic journey is driven by a deep passion for technology, problem-solving, and innovation. Alongside my studies, I work 
+  as a web developer for the Clerk of Court in Pinellas County, FL, where I contribute to creating efficient and impactful web solutions 
+  that streamline essential services for the community.
+</p>
+
+<h2>About My GitHub</h2>
+
+<p>
+  My GitHub is carefully organized to reflect my growth as an engineer and developer. I leverage GitHub Organizations to systematically 
+  manage my projects, making it easier to explore my work by category or focus area.
+</p>
+
+<h3>Highlighted Projects</h3>
+<p>
+  I’m particularly proud of the highlighted projects showcased here. These represent the most advanced and complex work I’ve developed, 
+  showcasing a blend of technical expertise and creative problem-solving. These projects push the boundaries of what I’ve learned and reflect 
+  my dedication to mastering the field of computer engineering.
+</p>
+
+<h3>Linked Projects</h3>
+<p>
+  Below, you’ll find links to my primary repositories, encompassing a range of areas from web development to embedded systems and beyond. 
+  Each project demonstrates my ability to tackle real-world problems with elegant and efficient solutions.
+</p>
+
+<h3>Notes and Learning Resources</h3>
+<p>
+  In addition to my projects, I’ve documented detailed notes for each programming language and technology I’ve studied. These notes serve as 
+  a resource for myself and others, covering essential concepts, practical implementations, and advanced techniques in various languages and 
+  frameworks.
+</p>
 
 ## Projects
 <details>
