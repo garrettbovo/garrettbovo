@@ -69,6 +69,7 @@
 <details>
         <summary>C Projects</summary>
         <ul>     
+            <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
