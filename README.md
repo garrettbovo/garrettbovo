@@ -7,10 +7,13 @@
     <a href='#introduction'>Introduction</a>
   </li>
   <li>
-    <a href='#language-notes'>Language Notes</a>
+    <a href='#highlighted-projects'>Highlighted Projects</a>
   </li>
   <li>
     <a href='#projects'>Projects</a>
+  </li>
+  <li>
+    <a href='#language-notes'>Language Notes</a>
   </li>
   <li>
     <a href='#Contact'>Contact</ol>
