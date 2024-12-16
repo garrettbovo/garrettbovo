@@ -37,7 +37,7 @@
 
 <ol>
         <li>
-            <h3>Highlighted Projects</h3>
+            <h3>Featured Projects</h3>
             <p>
                 I’m particularly proud of the highlighted projects showcased here. These represent the most advanced and complex work I’ve developed, 
                 showcasing a blend of technical expertise and creative problem-solving. These projects push the boundaries of what I’ve learned and reflect 
