@@ -62,13 +62,17 @@
     </ol>
     
 ## Highlighted Projects
+### The Agile Data Manipulator
+The <a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
+
 ### Dynamic Data Manipulator
-<a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">This</a> advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
+The <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a> is an advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
 
 ## Projects
 <details>
         <summary><a href="https://github.com/C-Coding-Assignments/.github/blob/main/README.md">C Projects</a></summary>
-        <ul>     
+        <ul>    
+            <li><a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a></li> 
             <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
             <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
