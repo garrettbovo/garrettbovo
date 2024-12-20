@@ -70,7 +70,7 @@ The <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">D
 
 ## Projects
 <details>
-        <summary><a href="https://github.com/C-Coding-Assignments/.github/blob/main/README.md">C Projects</a></summary>
+        <summary><a href="https://github.com/C-Coding-Assignments">C Projects</a></summary>
         <ul>    
             <li><a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a></li> 
             <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
