@@ -1,5 +1,15 @@
 <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" target="_blank">![github-header-image](https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87)</a>
 
+<p align="center">
+  <a href="https://github.com/garrettbovo" title="Go to my GitHub homepage" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="60" border="1" /> GitHub Homepage
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between the images -->
+  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" title="Visit my LinkedIn profile" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="60" border="1" /> LinkedIn
+  </a>
+</p>
+
 <details>
 <summary>Table of Contents</summary>
 <ol>
