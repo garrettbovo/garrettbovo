@@ -1,4 +1,6 @@
-<a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" target="_blank">![github-header-image](https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87)</a>
+<a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
+    <img src="https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87" title="Go to my LinkedIn" alt="GitHub Header Image">
+</a>
 
 <details>
 <summary>Table of Contents</summary>
