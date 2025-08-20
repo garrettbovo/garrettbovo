@@ -118,24 +118,44 @@ The <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">D
     </details>  
     <details>
         <summary><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes">C++ Notes</a></summary>
-        <ul>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics">C++ Basics</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Expressions">Expressions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output">Formatted Input and Output</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Selection%20Statements">Selection Statements</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Loops">Loops</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Arrays">Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Functions">Functions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Basic%20Type(s)">Basic Types</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Program%20Organization">Program Organization</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers">Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Strings">Strings</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Structures">Structures</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Files">Files</a></li>
-            <li><a href="(https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Writing%20Large%20Programs">Writing Large Programs</a></li>
-        </ul>
+        <details>
+  <summary>Procedural Programming</summary>
+
+- [C++ Basics](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics)
+- [Expressions](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Expressions)
+- [Formatted Input and Output](https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output)
+- [Selection Statements](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Selection%20Statements)
+- [Loops](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Loops)
+- [Arrays](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Arrays)
+- [Functions](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Functions)
+- [Basic Types](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Basic%20Type(s))
+- [Program Organization](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Program%20Organization)
+- [Pointers](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers)
+- [Pointers and Arrays](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers%20and%20Arrays)
+- [Strings](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Strings)
+- [Structures](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Structures)
+- [Files](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Files)
+- [Advanced Uses of Pointers](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Advanced%20Uses%20of%20Pointers)
+- [Writing Large Programs](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Writing%20Large%20Programs)
+
+</details>
+
+<details>
+  <summary>Object-Oriented Programming</summary>
+
+- [Classes](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Classes)
+- [Operator Overloading](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Operator%20Overloading)
+- [Inheritance](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Inheritance)
+- [Templates](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Templates)
+
+</details>
+
+<details>
+  <summary>Data Structures and Algorithms</summary>
+
+- [Stacks, Queues, and Deques](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Stacks%2C%20Queues%2C%20and%20Deque)
+
+</details>
     </details>   
 
 ## Contact
