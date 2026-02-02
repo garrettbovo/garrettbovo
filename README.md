@@ -61,7 +61,7 @@
     </ol>
     
 ## Highlighted Projects
-### The Agile Data Manipulator
+### Agile Data Manipulator
 The <a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
 
 ### Dynamic Data Manipulator
