@@ -24,10 +24,7 @@
 <h3>Welcome to my GitHub!</h3>
 
 <p>
-  I’m Garrett Ellis, an ambitious and accomplished Computer Engineering student at the University of South Florida (USF) in Tampa. 
-  My academic journey is driven by a deep passion for technology, problem-solving, and innovation. Alongside my studies, I work 
-  as a web developer for the Clerk of Court in Pinellas County, FL, where I contribute to creating efficient and impactful web solutions 
-  that streamline essential services for the community.
+  I’m Garrett Ellis, a software developer with professional experience building and maintaining production web and automation systems in a public-sector environment. I currently work with HTML, CSS, JavaScript, and SharePoint, and I also develop C++ projects focused on data structures, algorithms, and object-oriented design. My work emphasizes clarity, correctness, and building systems that solve real problems.
 </p>
 
 <h2>About My GitHub</h2>
