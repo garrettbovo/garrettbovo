@@ -61,6 +61,10 @@
     </ol>
     
 ## Highlighted Projects
+
+### Fortnite Graph Loot Engine
+The <a href="https://github.com/CPP-Programming-Assingments/GraphLoot-Engine">Fortnite Graph Loot Engine</a> is a C++17 game simulation that implements a weighted, undirected graph to represent a dynamic world map. The engine computes optimal travel paths using Dijkstra’s shortest-path algorithm, manages randomized loot generation through weighted probability pools, and enforces clean state transitions via a structured game loop.
+
 ### Agile Data Manipulator
 The <a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
 
