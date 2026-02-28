@@ -65,35 +65,35 @@
 ### Fortnite Graph Loot Engine
 The <a href="https://github.com/CPP-Programming-Assingments/GraphLoot-Engine">Fortnite Graph Loot Engine</a> is a C++17 game simulation that implements a weighted, undirected graph to represent a dynamic world map. The engine computes optimal travel paths using Dijkstra’s shortest-path algorithm, manages randomized loot generation through weighted probability pools, and enforces clean state transitions via a structured game loop.
 
-### Agile Data Manipulator
-The <a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
+### Pokémon Go Game Simulation
+A <a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go-inspired C simulation</a> that models real-time player interactions, Pokémon encounters, and structured data transformations. The system leverages pointer-based data traversal, file I/O pipelines, and dynamic memory management to simulate player progression, inventory handling, and event-driven gameplay mechanics within a modular multi-program architecture.
 
-### Dynamic Data Manipulator
-The <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a> is an advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
+### Student Registration System Simulation
+A <a href="https://github.com/C-Coding-Assignments/Student-Registration-System-Simulation">C-based student registration system simulation</a> designed to model real-world enrollment workflows. The system manages dynamic datasets representing students, course allocations, and registration states, emphasizing efficient memory allocation, structured procedural design, and scalable data handling within a controlled execution pipeline.
 
 ## Projects
 <details>
-        <summary><a href="https://github.com/C-Coding-Assignments">C Projects</a></summary>
-        <ul>    
-            <li><a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a></li> 
-            <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-2">Yoga Studio Search Part 2</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-1">Yoga Studio Search Part 1</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Tokenizer">Tokenizer</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Word-Score-Game">Word Score Gsme</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Split-String">Split String</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Before-and-After-Array">Before and After Array</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Board-Game">Board Game</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Distinct-Numbers">Distinct Numbers</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Good-Sequence-Checker">Good Sequence Checker</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Scrabble">Scrabble</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Oscillating-Performances">Oscillating Performances</a></li>
-            <li><a href="https://github.com/C-Coding-Assignments/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
-        </ul>
-    </details>  
+  <summary><a href="https://github.com/C-Coding-Assignments">C Projects</a></summary>
+  <ul>
+    <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-System-Simulation">Student Registration System Simulation</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-2">Yoga Studio Search Part 2</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Yoga-Studio-Search-Part-1">Yoga Studio Search Part 1</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Tokenizer">Tokenizer</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Word-Score-Game">Word Score Game</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Split-String">Split String</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Before-and-After-Array">Before and After Array</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Board-Game">Board Game</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Distinct-Numbers">Distinct Numbers</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Good-Sequence-Checker">Good Sequence Checker</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Scrabble">Scrabble</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Oscillating-Performances">Oscillating Performances</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
+  </ul>
+</details> 
 
 ## Language Notes
 <details>
