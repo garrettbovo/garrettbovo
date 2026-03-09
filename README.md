@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
+<a href="https://www.linkedin.com/in/garrett--ellis/">
     <img src="https://github.com/user-attachments/assets/34cffacf-f89b-42cb-a729-fcd5eba86b0b" title="Go to my LinkedIn" alt="GitHub Header Image">
 </a>
 
@@ -162,4 +162,4 @@ A <a href="https://github.com/C-Coding-Assignments/Student-Registration-System-S
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/garrettbovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garrett-ellis-740b202a6/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/garrettbovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garrett--ellis/)  
