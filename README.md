@@ -7,56 +7,21 @@ title="Go to my LinkedIn" alt="GitHub Header Image">
 <summary>Table of Contents</summary>
 <ol>
   <li>
-    <a href='#introduction'>About my Github</a>
+    <a href='#introduction'>About Me</a>
   </li>
   <li>
     <a href='#highlighted-projects'>Highlighted Projects</a>
   </li>
   <li>
-    <a href='#language-notes'>Language Notes</a>
-  </li>
-  <li>
     <a href='#Contact'>Contact</ol>
 </details>
 
-<h3>Welcome to my GitHub!</h3>
+## About Me
 
 <p>
-  I’m Garrett Ellis, a software developer with professional experience building and maintaining production web and automation systems in a public-sector environment. I currently work with HTML, CSS, JavaScript, and SharePoint, and I also develop C++ projects focused on data structures, algorithms, and object-oriented design. My work emphasizes clarity, correctness, and building systems that solve real problems.
+  I’m Garrett Ellis, a software developer with professional experience in production web systems and a strong focus on C++ programming, data structures, graph algorithms, and systems-oriented design.
+
 </p>
-
-<h2>About My GitHub</h2>
-
-<p>
-  My GitHub is carefully organized to reflect my growth as an engineer and developer. I leverage GitHub Organizations to systematically 
-  manage my projects, making it easier to explore my work by category or focus area.
-</p>
-
-<ol>
-        <li>
-            <h3>Featured Projects</h3>
-            <p>
-                I’m particularly proud of the highlighted projects showcased here. These represent the most advanced and complex work I’ve developed, 
-                showcasing a blend of technical expertise and creative problem-solving. These projects push the boundaries of what I’ve learned and reflect 
-                my dedication to mastering the field of computer engineering.
-            </p>
-        </li>    
-        <li>
-            <h3>Linked Projects</h3>
-            <p>
-                Below, you’ll find links to my primary repositories, encompassing a range of areas from web development to embedded systems and beyond. 
-                Each project demonstrates my ability to tackle real-world problems with elegant and efficient solutions.
-            </p>
-        </li>
-        <li>
-            <h3>Notes and Learning Resources</h3>
-            <p>
-                In addition to my projects, I’ve documented detailed notes for each programming language and technology I’ve studied. These notes serve as 
-                a resource for myself and others, covering essential concepts, practical implementations, and advanced techniques in various languages and 
-                frameworks.
-            </p>
-        </li>
-    </ol>
     
 ## Highlighted Projects
 
@@ -68,70 +33,6 @@ A <a href="https://github.com/garrettbovo/Pokemon-Go-Game-Simulation">Pokémon G
 
 ### Student Registration System Simulation
 A <a href="https://github.com/garrettbovo/Student-Registration-System-Simulation">C-based student registration system simulation</a> designed to model real-world enrollment workflows. The system manages dynamic datasets representing students, course allocations, and registration states, emphasizing efficient memory allocation, structured procedural design, and scalable data handling within a controlled execution pipeline.
-
-## Language Notes
-<details>
-        <summary><a href="https://github.com/Programming-Notes-all-languages/C-Notes">C Notes</a></summary>
-        <ul>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/C%20Basics">C Basics</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output">Formatted Input and Output</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Selection%20Statements">Selection Statements</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Loops">Loops</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Arrays">Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Functions">Functions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Basic%20Type(s)">Basic Types</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Program%20Organization">Program Organization</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers">Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Strings">Strings</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Structures">Structures</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Files">Files</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Writing%20Large%20Programs">Writing Large Programs</a></li>
-        </ul>
-    </details>  
-    <details>
-        <summary><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes">C++ Notes</a></summary>
-        <details>
-  <summary>Procedural Programming</summary>
-
-- [C++ Basics](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics)
-- [Expressions](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Expressions)
-- [Formatted Input and Output](https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output)
-- [Selection Statements](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Selection%20Statements)
-- [Loops](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Loops)
-- [Arrays](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Arrays)
-- [Functions](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Functions)
-- [Basic Types](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Basic%20Type(s))
-- [Program Organization](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Program%20Organization)
-- [Pointers](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers)
-- [Pointers and Arrays](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers%20and%20Arrays)
-- [Strings](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Strings)
-- [Structures](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Structures)
-- [Files](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Files)
-- [Advanced Uses of Pointers](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Advanced%20Uses%20of%20Pointers)
-- [Writing Large Programs](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Writing%20Large%20Programs)
-
-</details>
-
-<details>
-  <summary>Object-Oriented Programming</summary>
-
-- [Classes](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Classes)
-- [Operator Overloading](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Operator%20Overloading)
-- [Inheritance](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Inheritance)
-- [Templates](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Object%20Oriented%20Programming/Templates)
-
-</details>
-
-<details>
-  <summary>Data Structures and Algorithms</summary>
-
-- [Stacks, Queues, and Deques](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Stacks%2C%20Queues%2C%20and%20Deque)
-
-</details>
-    </details>   
 
 ## Contact
 📫 How to reach me: egarrett021@gmail.com 
