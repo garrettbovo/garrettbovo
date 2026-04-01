@@ -26,7 +26,7 @@ title="Go to my LinkedIn" alt="GitHub Header Image">
 ## Highlighted Projects
 
 ### Fortnite Graph Loot Engine
-The <a href="https://github.com/garrettbovo/GraphLoot-Engine">Fortnite Graph Loot Engine</a> is a C++17 game simulation that implements a weighted, undirected graph to represent a dynamic world map. The engine computes optimal travel paths using Dijkstra’s shortest-path algorithm, manages randomized loot generation through weighted probability pools, and enforces clean state transitions via a structured game loop.
+The <a href="https://github.com/garrettbovo/GraphLoot-Engine">Fortnite Graph Loot Engine</a> is a C++17 simulation engine that models traversal across a weighted, undirected graph of Points of Interest (POIs). It integrates Dijkstra’s shortest-path algorithm with a probability-driven loot system to simulate both real-time gameplay and large-scale statistical analysis. The engine supports dual execution modes: an interactive mode for step-by-step traversal and decision-making, and a simulation mode capable of running 1,000,000+ iterations to analyze loot distribution and system balance. The system is fully data-driven, with map topology and loot pools loaded from external CSV files, enabling flexible configuration without code changes.
 
 ### Pokémon Go Game Simulation
 A <a href="https://github.com/garrettbovo/Pokemon-Go-Game-Simulation">Pokémon Go-inspired C simulation</a> that models real-time player interactions, Pokémon encounters, and structured data transformations. The system leverages pointer-based data traversal, file I/O pipelines, and dynamic memory management to simulate player progression, inventory handling, and event-driven gameplay mechanics within a modular multi-program architecture.
