@@ -19,8 +19,13 @@ title="Go to my LinkedIn" alt="GitHub Header Image">
 ## About Me
 
 <p>
-  I’m Garrett Ellis, a software developer with professional experience in production web systems and a strong focus on C++ programming, data structures, graph algorithms, and systems-oriented design.
-
+  I build production web platforms for local government and write systems-level software in C and C++. I finished my AA degree at USF (3.95 GPA) while working at the Pinellas County Clerk of the Circuit Court, where I've progressed from Special Projects Assistant to Management Intern to my current role developing and maintaining internal and public-facing web applications.
+</p>
+<p>
+At the Clerk's office, I design and optimize web platforms using HTML, CSS, JavaScript, and the DNN/SharePoint framework — tools that serve both internal staff and the public. On my own time, I build C/C++ projects focused on graph algorithms, data structures, OOP design, and systems programming.
+</p>
+<p>
+I'm seeking software engineering internships or entry-level roles in C/C++ development, embedded systems, or systems programming. Open to opportunities in the Tampa Bay area or remote.
 </p>
     
 ## Highlighted Projects
