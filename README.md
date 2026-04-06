@@ -30,10 +30,10 @@ I'm seeking software engineering internships or entry-level roles in C/C++ devel
     
 ## Highlighted Projects
 
-### Fortnite Graph Loot Engine
-The <a href="https://github.com/garrettbovo/GraphLoot-Engine">Fortnite Graph Loot Engine</a> is a C++17 simulation engine that models traversal across a weighted graph of Points of Interest (POIs). It integrates Dijkstra’s shortest-path algorithm with a probability-driven loot system to support both real-time gameplay and large-scale statistical analysis (1,000,000+ runs). The system is fully data-driven, loading map topology and loot configurations from CSV files, and is built with a CMake-based build system, automated testing, and CI validation.
+### Graph Loot Engine
+The <a href="https://github.com/garrettbovo/GraphLoot-Engine">Graph Loot Engine</a> is a C++ simulation engine that models traversal across a weighted graph of Points of Interest (POIs). It integrates Dijkstra’s shortest-path algorithm with a probability-driven loot system to support both real-time gameplay and large-scale statistical analysis (1,000,000+ runs). The system is fully data-driven, loading map topology and loot configurations from CSV files, and is built with a CMake-based build system, automated testing, and CI validation.
 
-### Pokémon Go System Simulation
+### Collection System Simulation
 A <a href="https://github.com/garrettbovo/Pokemon-Go-System-Simulation">C-based event-driven system</a> that models player interactions, encounter generation, and inventory state transitions within a dynamic environment. The system integrates multiple core data structures, including a trie for efficient name-based lookup and a doubly linked list for managing captured entities. Implements modular manager structures using function pointers to encapsulate menu handling, list operations, and trie functionality, enabling flexible and extensible system behavior. Features manual memory management, pointer-based data traversal, and file I/O pipelines for persistent output generation and state reporting.
 
 ### Student Registration System Simulation
