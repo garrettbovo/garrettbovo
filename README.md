@@ -19,7 +19,7 @@ title="Go to my LinkedIn" alt="GitHub Header Image">
 ## About Me
 
 <p>
-  I build production web platforms for local government and write systems-level software in C and C++. I working on my Computer Science degree at USF (3.95 GPA) while working at the Pinellas County Clerk of the Circuit Court, where I've progressed from Special Projects Assistant to Management Intern to my current role developing and maintaining internal and public-facing web applications.
+  I build production web platforms for local government and write systems-level software in C and C++. I am working on my Computer Science degree at USF (3.95 GPA) while working at the Pinellas County Clerk of the Circuit Court, where I've progressed from Special Projects Assistant to Management Intern to my current role developing and maintaining internal and public-facing web applications.
 </p>
 <p>
 At the Clerk's office, I design and optimize web platforms using HTML, CSS, JavaScript, and the DNN/SharePoint framework — tools that serve both internal staff and the public. On my own time, I build C/C++ projects focused on graph algorithms, data structures, OOP design, and systems programming.
